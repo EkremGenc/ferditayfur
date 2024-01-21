@@ -1,15 +1,12 @@
-# ferditayfur kişisel web sitesi
+# Ferdi Tayfur kişisel web sitesi projesi
 
-Bu proje...
+Bu proje, sanatçı Ferdi Tayfur'un kişisel web sitesi için oluşturulmuştur.
 
-aşaıdaki web sayfaları kodlanacaktır:
+Aşağıdaki web sayfaları kodlancaktır:
+- Ana sayfa
+- Hakkında
+- Fotoğraflar
+- Konserler
+- Albümler
+- İletişim
 
--ana sayfa
-
--hakkında
-
--iletişim
-
--.
-
--....
